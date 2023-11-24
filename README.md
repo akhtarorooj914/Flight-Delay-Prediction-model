@@ -1,4 +1,6 @@
+
 # Flight-Delay-Prediction-model
+This project has been completed as an internship project for Tata Steel Summer Intership program
 
 In the dynamic realm of air travel, the ability to predict flight delays accurately has become an essential pursuit for both passengers and aviation industry stakeholders.
 Delays can lead to inconvenience for passengers and operational challenges for airlines. This project delves into the realm of Machine Learning (ML) with a focus on Flight Delay Prediction, utilizing a Kaggle dataset as the cornerstone of analysis.
@@ -35,3 +37,5 @@ Runs on anaconda, no external libraries need to be installed
 ![f20](https://github.com/akhtarorooj914/Flight-Delay-Prediction-model/assets/101574230/d88eb60a-7af7-4ae7-8816-cddceda1ffd5)
 ![f21](https://github.com/akhtarorooj914/Flight-Delay-Prediction-model/assets/101574230/a857142d-f6b6-4614-85a3-730b4391de35)
 ![f22](https://github.com/akhtarorooj914/Flight-Delay-Prediction-model/assets/101574230/12518c5d-bc31-4a56-b7c9-5daadfc45190)
+
+<img width="488" alt="CERT_VT" src="https://github.com/akhtarorooj914/Flight-Delay-Prediction-model/assets/101574230/7f4f3f02-6c71-4f71-bc0c-77c147062199">
